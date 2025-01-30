@@ -2,3 +2,7 @@ div{
     color: rgb(255, 0, 0);
     background-color: chartreuse;
 }
+
+img{
+    border: 10px;
+}
